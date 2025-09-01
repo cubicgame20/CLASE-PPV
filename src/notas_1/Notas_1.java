@@ -11,6 +11,7 @@ mensaje
         si recuperacion=
             apto:   Aprobado y notaTrimestre = 3
                 no apto: reprobado y notaTrimestre no cambia
+// anfjkasnf
  */
 package notas_1;
 
